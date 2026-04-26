@@ -1,0 +1,34 @@
+#Canadian Traditional Media Audience Measurement
+
+#English and French are both official national languages in Canada (include some stats: https://www.canada.ca/en/canadian-heritage/services/official-languages-bilingualism/publications/statistics.html)
+#Canada's bilingualism can be reflected in media consumption patterns across the country
+#Preferences for English or French radio and tv in different markets can help us understand audience demographics in different parts of Canada
+#This information is used to make decisions about things like what content to aire, what advertisements to show and what stations to promote
+
+#The rise of streaming and mobile platforms has led to concerns about shifting viewer habits
+#Audiences might stray away from French tv and radio in favor of English content in Ontario for example, a province with a global city like Toronto
+#We can get a sense of historical language patterns across Canada by examining traditional radio and tv channels to understand how newer audiovisual platforms might influence existing trends
+ 
+#By understanding language preferences in traditional media, in the future we can:
+#### predict language preferences on newer audiovisual platforms based on location
+#### compare future data about audiovisual platform language preferences vs traditional platform language preferences to understand differences (or similarities) in audience
+#### investigate the stability of traditional media in certain areas (is english radio popular from year to year in the same markets for example)
+
+#This goal of this project is to understand and visualize what language preferences look like now and how they might change in coming years.
+
+#Research question:
+
+#What are the differences in English and French language radio and tv consumption patterns across Canada per year (2019-2025)?
+### Geographically, which languages dominate and where?
+######## 7 bubble maps, 2 bubble colors (english and french, despite tv/radio), dropdown menu for 2019-2025 
+### Over time how have traditional media hours changed in response to new audiovisual data
+######## line graph - total radio hours over time, total tv hours over time, total audiovisual hours (starting from 2023)
+######## line graph - total english media hours over time, total french media hours over time, total audiovisual hours(starting from 2023)
+
+
+
+
+
+
+
+
