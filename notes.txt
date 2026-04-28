@@ -1,6 +1,6 @@
 #Canadian Traditional Media Audience Measurement
 
-#English and French are both official national languages in Canada (include some stats: https://www.canada.ca/en/canadian-heritage/services/official-languages-bilingualism/publications/statistics.html)
+#English and French are both official national languages of Canada (include some stats: https://www.canada.ca/en/canadian-heritage/services/official-languages-bilingualism/publications/statistics.html)
 #Canada's bilingualism can be reflected in media consumption patterns across the country
 #Preferences for English or French radio and tv in different markets can help us understand audience demographics in different parts of Canada
 #This information is used to make decisions about things like what content to aire, what advertisements to show and what stations to promote
@@ -24,11 +24,3 @@
 ### Over time how have traditional media hours changed in response to new audiovisual data
 ######## line graph - total radio hours over time, total tv hours over time, total audiovisual hours (starting from 2023)
 ######## line graph - total english media hours over time, total french media hours over time, total audiovisual hours(starting from 2023)
-
-
-
-
-
-
-
-
